@@ -8,9 +8,8 @@ editor_options:
 Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/A21hL4nA)
 \# Assignment 4: Incarceration
 
-Link to your final GitHub pages site here:
-<https://info-201a-sp22.github.io/a3-starter/index.html> (change the
-link to for your GitHub pages site)
+Link to final GitHub pages site here:
+<https://github.com/info-201b-sp24/a4-incarceration-assignment-DannnyZhou>
 
 America is the country with the greatest number of people incarcerated
 in the world, and of all Americans, people of color, especially Black
